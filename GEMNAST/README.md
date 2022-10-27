@@ -1,5 +1,6 @@
-# GEMNAST_pub
-Computational high throughput platform for the assessment of nutritional and metabolic attributes of microorganisms/cells as represented in genome scale models 
+# GEMNAST
+Computational high throughput platform for the assessment of nutritional and metabolic attributes of microorganisms/cells as represented in genome scale models. 
+GEMNAST was written in the Python coding language (https://www.python.org/downloads/) and requires a compatible interface or IDE to be ran, additional to the instalation of the Python libraries specified within each of the corresponding scripts (e.g. COBRA: https://github.com/opencobra/cobrapy/blob/stable/INSTALL.rst). Installation of Anaconda Distribution is recommended: https://www.anaconda.com/products/distribution
 
 The scripts in this repository are required to replicate the results from the Thesis titled "" and include the corresponding reactions and dictionaries.
 
