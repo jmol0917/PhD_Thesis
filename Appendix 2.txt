@@ -1,0 +1,3382 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+<phylogeny rooted="true"><clade>
+<name>root</name>
+<clade>
+<name>Archaea</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Candidatus Nitrososphaera gargensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Saccharolobus solfataricus P2'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Euryarchaeota</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Methanomassiliicoccus luminyensis B10'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Methanobacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Methanobrevibacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Methanobrevibacter ruminantium M1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Methanobrevibacter smithii ATCC 35061'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Methanosphaera stadtmanae DSM 3091'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Halococcus morrhuae'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Bacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Brachyspira pilosicoli B2904'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Schlesneria paludicola DSM 18645'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Synergistaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Cloacibacillus evryensis DSM 19522'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acetomicrobium hydrogeniformans'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pyramidobacter piscolens W5455'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Akkermansia muciniphila'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Mycoplasmataceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Mycoplasma</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Mycoplasma pneumoniae 309'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Mycoplasma hominis ATCC 23114'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Ureaplasma</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Ureaplasma urealyticum serovar 8'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ureaplasma parvum serovar 1'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Actinobacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Coriobacteriia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Coriobacteriales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Collinsella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Collinsella tanakaei YIT 12063'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Collinsella intestinalis DSM 13280'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Collinsella stercoris DSM 13279'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Collinsella aerofaciens ATCC 25986'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Atopobiaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Atopobium minutum 10063974'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Lancefieldella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Atopobium rimae ATCC 49626'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Atopobium parvulum DSM 20469'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Olsenella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Olsenella uli DSM 7084'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Olsenella profusa'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Eggerthellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Adlercreutzia equolifaciens DSM 19450'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Slackia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Slackia piriformis YIT 12062'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Slackia exigua ATCC 700122'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Gordonibacter pamelaeae'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cryptobacterium curtum DSM 15641'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eggerthella lenta DSM 2243'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Actinobacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Candidatus Blastococcus massiliensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Micromonospora aurantiaca ATCC 27029'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Corynebacteriales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Dietzia cinnamea P4'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Corynebacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Corynebacterium propinquum DSM 44285'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium durum F0235'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium ulcerans 809'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium ammoniagenes DSM 20306'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium kroppenstedtii DSM 44385'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium tuberculostearicum SK141'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium amycolatum SK46'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium glucuronolyticum ATCC 51867'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium aurimucosum ATCC 700975'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium striatum ATCC 6940'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Corynebacterium ureicelerivorans'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Rhodococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Rhodococcus rhodochrous ATCC 21198'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Rhodococcus hoagii'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Rhodococcus hoagii NBRC 101255 = C 7'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Rhodococcus hoagii ATCC 33707'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Rhodococcus erythropolis PR4'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Gordonia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Gordonia rubripertincta NBRC 101908'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Gordonia terrae NBRC 100016'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Mycobacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Mycolicibacterium fortuitum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Mycobacterium avium'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Propionibacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Acidipropionibacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Acidipropionibacterium acidipropionici ATCC 4875'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acidipropionibacterium jensenii DSM 20535'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Pseudopropionibacterium propionicum F0230a'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Cutibacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Cutibacterium avidum 44067'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cutibacterium granulosum DSM 20700'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cutibacterium acnes KPA171202'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Propionibacterium freudenreichii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Bifidobacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Scardovia inopinata F0304'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Bifidobacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bifidobacterium mongoliense DSM 21395'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium coryneforme DSM 20216'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium ruminantium DSM 6489'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium boum DSM 20432'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium thermophilum RBL67'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium scardovii JCM 12489 = DSM 13734'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium catenulatum'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bifidobacterium catenulatum subsp. kashiwanohense JCM 15439 = DSM 21854'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Bifidobacterium gallicum DSM 20093 = LMG 11596'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium angulatum DSM 20098 = JCM 7096'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium dentium ATCC 27678'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium bifidum'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bifidobacterium bifidum S17'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium bifidum PRL2010'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium bifidum BGN4'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium bifidum NCIMB 41171'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Bifidobacterium adolescentis'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bifidobacterium stercoris JCM 15918'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium adolescentis ATCC 15703'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Bifidobacterium thermacidophilum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium animalis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium pseudolongum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium breve HPH0326'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium longum'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bifidobacterium longum E18'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium longum NCC2705'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium longum DJO10A'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium longum subsp. infantis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bifidobacterium longum subsp. longum'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Actinomycetaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Trueperella pyogenes MS249'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Varibaculum cambriense DSM 15806'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Arcanobacterium haemolyticum DSM 20595'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Mobiluncus curtisii ATCC 43063'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Schaalia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Schaalia georgiae DSM 6843'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Schaalia cardiffensis F0333'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Schaalia odontolytica ATCC 17982'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Schaalia turicensis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Actinomyces</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Actinomyces oris K20'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Actinomyces viscosus C505'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Actinomyces urogenitalis DSM 15434'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Actinomyces graevenitzii C83'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Actinomyces naeslundii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Micrococcales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Brachybacterium paraconglomeratum LC44'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cellulosimicrobium cellulans J36'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Brevibacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Brevibacterium casei S18'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Brevibacterium ravenspurgense 5401308 = CCUG 53855'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Brevibacterium linens BL2'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Micrococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Arthrobacter castelli DSM 16402'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Micrococcus luteus NCTC 2665'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Kocuria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Kocuria palustris PEL'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Kocuria rhizophila DC2201'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Rothia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Rothia aeria F0474'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Rothia dentocariosa ATCC 17931'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Rothia mucilaginosa'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>'Tropheryma whipplei'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Microbacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Microbacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Microbacterium oleivorans NBRC 103075'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Microbacterium gubbeenense DSM 15944'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Microbacterium paraoxydans'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Curtobacterium flaccumfaciens'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Dermacoccaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Kytococcus sedentarius DSM 20547'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Dermacoccus nishinomiyaensis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<name>Fusobacteriales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Leptotrichia buccalis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Fusobacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Cetobacterium somerae'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Fusobacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Fusobacterium russii ATCC 25533'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium necrophorum D12'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium varium ATCC 27725'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium ulcerans ATCC 49185'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium mortiferum ATCC 9817'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium periodonticum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium nucleatum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Fusobacterium gonidiaformans ATCC 25563'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Firmicutes</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Tissierellia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Kallipyga massiliensis ph2'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Peptoniphilaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Anaerococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Anaerococcus vaginalis ATCC 51170'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerococcus hydrogenalis DSM 7454'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerococcus prevotii DSM 20548'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Parvimonas micra ATCC 33270'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Finegoldia magna ATCC 29328'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Peptoniphilus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Peptoniphilus lacrimalis DSM 7455'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Peptoniphilus timonensis JC401'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Peptoniphilus indolicus ATCC 29427'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Peptoniphilus harei'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Erysipelotrichaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Erysipelotrichaceae bacterium'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Candidatus Stoquefichus massiliensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Kandleria vitulina DSM 20405'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Faecalicoccus pleomorphus DSM 20574'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eggerthia catenaformis OT 569 = DSM 20559'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Solobacterium moorei'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Solobacterium moorei DSM 22971'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Solobacterium moorei F0204'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Bulleidia extructa W1219'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Holdemanella biformis DSM 3989'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Catenibacterium mitsuokai DSM 15897'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Absiella dolichum DSM 3991'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Coprobacillus</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Holdemania filiformis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Faecalitalea cylindroides'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Erysipelatoclostridium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>' saccharogumia DSM 17460'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' innocuum 2959'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' spiroforme DSM 1552'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Erysipelatoclostridium ramosum'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Bacilli</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Bacillales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Exiguobacterium aurantiacum DSM 6208'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Gemella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Gemella morbillorum M424'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Gemella haemolysans ATCC 10379'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Gemella sanguinis M325'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Planococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Kurthia massiliensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ureibacillus thermosphaericus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Paenibacillaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Aneurinibacillus aneurinilyticus ATCC 12856'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Paenibacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Paenibacillus barengoltzii G22'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paenibacillus alvei DSM 29'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paenibacillus daejeonensis DSM 15491'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paenibacillus lactis 154'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paenibacillus graminis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Brevibacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Brevibacillus borstelensis AK1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Brevibacillus brevis NBRC 100599'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Brevibacillus agri'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Listeriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Brochothrix thermosphacta DSM 20171 = FSL F6-1036'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Listeria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Listeria grayi DSM 20601'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Listeria monocytogenes'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Listeria monocytogenes serotype 7'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Listeria monocytogenes J0161'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Listeria monocytogenes Finland 1998'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Listeria monocytogenes ATCC 19115'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Bacillaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacillus firmus DS1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Geobacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Geobacillus vulcani PSS1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Geobacillus stearothermophilus ATCC 7953'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Oceanobacillus picturae'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Alkalihalobacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacillus pseudofirmus OF4'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Alkalihalobacillus halodurans'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Alkalihalobacillus clausii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Lysinibacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lysinibacillus fusiformis ZB2'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lysinibacillus sphaericus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Bacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacillus sonorensis L12'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus nealsonii AAU1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus endophyticus 2102'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus altitudinis 41KF2b'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus fordii DSM 16014 = CIP 108821'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus timonensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus megaterium DSM 319'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus pumilus ATCC 7061'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus mycoides DSM 2048'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus infantis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus licheniformis DSM 13 = ATCC 14580'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus flexus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus vallismortis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus mojavensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus thermoamylovorans'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus atrophaeus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus thuringiensis serovar thuringiensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus subtilis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacillus cereus G9842'</name>
+<branch_length>4</branch_length>
+<color><red>0</red><green>0</green><blue>0</blue><alpha>255</alpha></color>
+</clade>
+<clade>
+<name>'Bacillus amyloliquefaciens DSM 7 = ATCC 23350'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Staphylococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Staphylococcus pasteuri SP1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus arlettae CVD059'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus warneri SG1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus vitulinus F1028'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus pettenkoferi VCU012'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus haemolyticus JCSC1435'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus equorum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus epidermidis ATCC 12228'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus capitis'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Staphylococcus capitis QN1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus capitis C87'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Staphylococcus saprophyticus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus cohnii'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus lugdunensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus sciuri'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus hominis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus xylosus NJ'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus simulans'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus intermedius'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Staphylococcus aureus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Lactobacillales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Granulicatella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Granulicatella adiacens ATCC 49175'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Granulicatella elegans ATCC 700633'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Aerococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Aerococcus viridans ATCC 11563 = CCUG 4311'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Abiotrophia defectiva ATCC 49176'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Enterococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Enterococcus asini ATCC 700915'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus avium ATCC 14025'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus durans ATCC 6056'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus dispar ATCC 51266'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus cecorum DSM 20682 = ATCC 43198'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus casseliflavus ATCC 12755'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus hirae ATCC 9790'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus gallinarum EG2'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus faecium TX1330'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus caccae'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus phoeniculicola'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus saccharolyticus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus faecalis'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Enterococcus faecalis TX2134'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus faecalis TX1322'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus faecalis TX0104'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterococcus faecalis V583'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Streptococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Lactococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lactococcus raffinolactis 4877'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactococcus garvieae ATCC 49156'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactococcus lactis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Streptococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Streptococcus mutans ATCC 25175'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus thoraltensis DSM 12221'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus lutetiensis 033'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus pseudopneumoniae IS7493'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus parauberis KCTC 11537'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus oralis Uo5'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus vestibularis F0396'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus infantis ATCC 700779'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus cristatus ATCC 51100'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus australis ATCC 700641'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus peroris ATCC 700780'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus parasanguinis ATCC 903'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus intermedius JTH08'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus equinus ATCC 9812'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus pneumoniae G54'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus sanguinis SK36'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus pyogenes MGAS9429'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus salivarius JIM8777'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus gallolyticus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus thermophilus LMG 18311'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus mitis NCTC 12261'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus uberis 0140J'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus agalactiae A909'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus infantarius'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus constellatus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus equi'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus dysgalactiae'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus anginosus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Streptococcus gordonii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Lactobacillaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Limosilactobacillus fermentum'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lactobacillus fermentum ATCC 14931'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus fermentum IFO 3956'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Lactiplantibacillus plantarum'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lactobacillus plantarum JDM1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus plantarum WCFS1'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Lactobacillus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lactobacillus vaginalis DSM 5837 = ATCC 49540'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus hilgardii DSM 20176 = ATCC 8290'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus gastricus PS3'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus pentosus KCA1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus mucosae LM1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus curvatus CRL 705'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus oris F0423'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus animalis KCTC 3501 = DSM 20602'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus amylovorus GRL 1112'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus amylolyticus DSM 11664'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus helveticus DSM 20075 = CGMCC 1.1877'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus rhamnosus GG'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus ultunensis DSM 16047'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus ruminis ATCC 25644'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus iners DSM 13335'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus buchneri ATCC 11577'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus antri DSM 16041'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus jensenii 1153'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus gasseri ATCC 33323 = JCM 1131'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus acidophilus'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lactobacillus acidophilus ATCC 4796'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus acidophilus NCFM'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Lactobacillus johnsonii'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lactobacillus johnsonii DPC 6026'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus johnsonii NCC 533'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Lactobacillus coleohominis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus crispatus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus salivarius'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus coryniformis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus sakei'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus reuteri'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus paracasei ATCC 334'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus delbrueckii'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus casei'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lactobacillus brevis ATCC 367'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Pediococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Pediococcus pentosaceus ATCC 25745'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pediococcus acidilactici DSM 20284'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Leuconostocaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Weissella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Weissella cibaria KACC 11862'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Weissella paramesenteroides ATCC 33313'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Weissella confusa'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Leuconostoc</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Leuconostoc gelidum JB7'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Leuconostoc lactis KCTC 3773'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Leuconostoc mesenteroides'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<name>Negativicutes</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Selenomonadaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Selenomonas ruminantium AC2024'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Mitsuokella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Mitsuokella jalaludinii DSM 13811'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Mitsuokella multacida DSM 20544'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Megamonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Megamonas funiformis YIT 11815'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Megamonas hypermegale'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Veillonellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Megasphaera elsdenii DSM 20460'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Dialister</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Dialister succinatiphilus YIT 11850'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Dialister invisus DSM 15470'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Veillonella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Veillonella dispar ATCC 17748'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Veillonella ratti'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Veillonella atypica'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Veillonella parvula'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Acidaminococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Phascolarctobacterium succinatutens YIT 12067'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Acidaminococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Acidaminococcus fermentans DSM 20731'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acidaminococcus intestini'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Clostridiales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Hungateiclostridiaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Ruminiclostridium cellobioparum DSM 1351 = ATCC 15832'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Hungateiclostridium clariflavum DSM 19732'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Clostridiales Family XIII. Incertae Sedis'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Mogibacterium timidum ATCC 33093'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eubacterium brachy ATCC 33089'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eubacterium sulci ATCC 35585'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eubacterium saphenum ATCC 49989'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>' pectinophilus ATCC 43243'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Eubacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Pseudoramibacter alactolyticus ATCC 23263'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerofustis stercorihominis DSM 17244'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Eubacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Eubacterium ramulus ATCC 29099'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eubacterium limosum KIST612'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' cellulosolvens 6'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eubacterium ventriosum ATCC 27560'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Peptostreptococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Paeniclostridium sordellii ATCC 9714'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paraclostridium bifermentans ATCC 19299'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Terrisporobacter glycolicus ATCC 14880 = DSM 1288'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Peptostreptococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Peptostreptococcus anaerobius VPI 4330 = DSM 2949'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Peptostreptococcus stomatis DSM 17678'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Filifactor alocis ATCC 35896'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridioides difficile'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Clostridioides difficile R20291'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridioides difficile CD196'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridioides difficile NAP08'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridioides difficile NAP07'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Acetoanaerobium sticklandii DSM 519'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Intestinibacter bartlettii DSM 16795'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Peptacetobacter hiranonis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Clostridiaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Hungatella hathewayi'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Hungatella hathewayi 12489931'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Hungatella hathewayi DSM 13479'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Butyricicoccus pullicaecorum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Clostridium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Clostridium cadaveris AGR2141'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium paraputrificum AGR2156'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium sartagoforme AAU1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium tyrobutyricum DSM 2637 = ATCC 25755 = JCM 11008'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium celatum DSM 1785'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium sporogenes ATCC 15579'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium beijerinckii NCIMB 8052'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium acetobutylicum ATCC 824'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium perfringens ATCC 13124'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium botulinum'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Clostridium botulinum Bf'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium botulinum F'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium botulinum E'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium botulinum A'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Clostridium saccharoperbutylacetonicum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Clostridium butyricum DSM 10702'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Ruminococcaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Agathobaculum desmolans ATCC 43058'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' viride DSM 6836'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' sporosphaeroides DSM 1294'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcaceae bacterium D16'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerotruncus colihominis DSM 17241'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' leptum DSM 753'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Flavonifractor plautii ATCC 29863'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Subdoligranulum variabile DSM 15176'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudoflavonifractor capillosus ATCC 29799'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' methylpentosum'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' siraeum DSM 15702'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Ruminococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Ruminococcus bicirculans'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcus gauvreauii DSM 19829'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcus albus 7 = DSM 20455'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcus champanellensis 18P13 = JCM 17042'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcus callidus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcus bromii'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ruminococcus flavefaciens ATCC 19208'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Faecalibacterium prausnitzii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Lachnospiraceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lachnospiraceae bacterium'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' indolis DSM 755'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudobutyrivibrio ruminis AD2017'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cellulosilyticum lentocellum DSM 5427'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Oribacterium sinus F0268'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Lachnospira</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Lachnospira multipara ATCC 19207'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' eligens ATCC 27750'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Tyzzerella nexilis DSM 1787'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Dorea</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Dorea longicatena DSM 13814'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Dorea formicigenerans ATCC 27755'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Enterocloster</name>
+<branch_length>4</branch_length>
+<clade>
+<name>' clostridioforme CM201'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' asparagiforme DSM 15981'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterocloster citroniae'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterocloster bolteae'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Anaerostipes</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Anaerostipes hadrus DSM 3319'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerostipes caccae DSM 14662'</name>
+<branch_length>4</branch_length>
+<color><red>0</red><green>0</green><blue>0</blue><alpha>255</alpha></color>
+</clade>
+</clade><clade>
+<name>'Marvinbryantia formatexigens'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Roseburia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Roseburia inulinivorans DSM 16841'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Roseburia hominis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Roseburia intestinalis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Coprococcus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Coprococcus comes ATCC 27758'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Coprococcus eutactus ATCC 27759'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Coprococcus catus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>' rectale ATCC 33656'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerobutyricum hallii DSM 3353'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Mediterraneibacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>' lactaris ATCC 29176'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' gnavus ATCC 29149'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' torques ATCC 27756'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Lachnoclostridium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>' methoxybenzovorans SR3'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' hylemonae DSM 15053'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' scindens ATCC 35704'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>' symbiosum ATCC 14940'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Blautia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Blautia wexlerae DSM 19850'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Blautia producta ATCC 27340 = DSM 2950'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Blautia hydrogenotrophica DSM 10507'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Blautia obeum ATCC 29174'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Blautia hansenii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Butyrivibrio</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Butyrivibrio crossotus DSM 2876'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Butyrivibrio fibrisolvens'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<name>Bacteroidetes</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Capnocytophaga</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Capnocytophaga granulosa ATCC 51502'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Capnocytophaga sputigena ATCC 33612'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Capnocytophaga ochracea DSM 7271'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Cytophagaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Rudanella lutea DSM 19387'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Spirosoma linguale DSM 74'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Dyadobacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Dyadobacter beijingensis DSM 21582'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Dyadobacter fermentans DSM 18053'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Bacteroidales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Barnesiella intestinihominis YIT 11860'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Alistipes</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Alistipes onderdonkii WAL 8169 = DSM 19147'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Alistipes indistinctus YIT 12060'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Alistipes shahii WAL 8301'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Alistipes finegoldii DSM 17242'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Alistipes putredinis DSM 17216'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Porphyromonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Porphyromonas somerae DSM 23386'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Porphyromonas asaccharolytica DSM 20707'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Porphyromonas endodontalis ATCC 35406'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Porphyromonas uenonis DSM 23387 = JCM 13868'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Porphyromonas gingivalis W83'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Phocaeicola</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacteroides coprophilus DSM 18228 = JCM 13818'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides dorei DSM 17855'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides vulgatus ATCC 8482'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Phocaeicola coprocola'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Phocaeicola plebeius'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Phocaeicola massiliensis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Dysgonomonas gadei'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Prevotellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Paraprevotella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Paraprevotella xylaniphila YIT 11841'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paraprevotella clara YIT 11840'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Alloprevotella tannerae ATCC 51259'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Prevotella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Prevotella brevis ATCC 19188'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella enoeca JCM 12259'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella conceptionensis 9403948'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella veroralis DSM 19559 = JCM 6290'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella shahii DSM 15611 = JCM 12083'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella nanceiensis DSM 19126 = JCM 15639'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella corporis DSM 18810 = JCM 8529'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella albensis DSM 11370 = JCM 12258'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella stercorea DSM 18206'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella pallens ATCC 700821'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella nigrescens ATCC 33563'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella salivae DSM 15606'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella oralis ATCC 33269'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella buccae ATCC 33574'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella bivia DSM 20514'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella bryantii'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Prevotella bryantii C21a'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella bryantii B14'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Prevotella melaninogenica ATCC 25845'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella timonensis 4401737 = DSM 22865 = JCM 15640'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella ruminicola 23'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella intermedia'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Prevotella intermedia ATCC 25611 = DSM 20706'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella intermedia 17'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Prevotella copri'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella disiens JCM 6334 = ATCC 29426'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Prevotella denticola F0289'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Odoribacteraceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Butyricimonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Butyricimonas virosa DSM 23226'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Butyricimonas synergistica DSM 23225'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Odoribacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Odoribacter laneus YIT 12061'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Odoribacter splanchnicus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Tannerellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Parabacteroides</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Parabacteroides goldsteinii dnLKV18'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Parabacteroides gordonii MS-1 = DSM 23371'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Parabacteroides johnsonii DSM 18315'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Parabacteroides distasonis ATCC 8503'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Parabacteroides merdae ATCC 43184'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Tannerella forsythia'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Bacteroides</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacteroides timonensis AP1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides graminisolvens DSM 19988 = JCM 15093'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides faecis MAJ27'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides nordii CL02T12C05'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides fluxus YIT 12057'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides clarus YIT 12056'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides oleiciplenus YIT 12058'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides xylanisolvens'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacteroides xylanisolvens SD CC 1b'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides xylanisolvens SD CC 2a'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides xylanisolvens XB1A'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Bacteroides cellulosilyticus DSM 14838'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides finegoldii DSM 17565'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides stercoris ATCC 43183'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides caccae ATCC 43185'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides uniformis ATCC 8492'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides ovatus'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacteroides ovatus SD CMC 3f'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides ovatus ATCC 8483'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Bacteroides intestinalis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides pyogenes'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides eggerthii DSM 20697'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides thetaiotaomicron'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides fragilis'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bacteroides fragilis 638R'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides fragilis YCH46'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bacteroides fragilis NCTC 9343'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade></clade><clade>
+<name>Proteobacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Desulfovibrionaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bilophila wadsworthia'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Desulfovibrio piger ATCC 29098'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Alphaproteobacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Roseomonas mucosa'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Paracoccus yeei'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Sphingomonas paucimobilis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Rhizobiales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Agrobacterium tumefaciens F2'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Ochrobactrum</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Ochrobactrum intermedium LMG 3301'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Ochrobactrum anthropi ATCC 49188'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Bradyrhizobiaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Afipia birgiae 34632'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Bradyrhizobium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bradyrhizobium japonicum USDA 6'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Bradyrhizobium elkanii USDA 76'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>'Mesorhizobium japonicum MAFF 303099'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Methylobacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Methylorubrum populi BJ001'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Methylobacterium</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Methylobacterium radiotolerans JCM 2831'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Methylobacterium mesophilicum'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>'Bartonella quintana'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Brevundimonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Brevundimonas bacteroides DSM 4726'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Brevundimonas diminuta'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Gammaproteobacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Xanthomonadaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Stenotrophomonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Stenotrophomonas rhizophila PCA13'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Stenotrophomonas maltophilia D457'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Silanimonas lenta DSM 16282'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Nevskia ramosa DSM 11499'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Pasteurellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Aggregatibacter aphrophilus NJ8700'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Actinobacillus pleuropneumoniae serovar 5b str. L20'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Haemophilus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Haemophilus sputorum CCUG 13788'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Haemophilus haemolyticus M19501'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Haemophilus parainfluenzae T3T1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Haemophilus influenzae R2846'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Vibrionaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Grimontia hollisae CIP 101886'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Vibrio</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Vibrio fluvialis'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Vibrio fluvialis I21563'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Vibrio fluvialis PG41'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Vibrio fluvialis 560'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Vibrio furnissii NCTC 11218'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Vibrio parahaemolyticus RIMD 2210633'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Vibrio mimicus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Aeromonadales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Succinivibrionaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Succinivibrio dextrinosolvens H5'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Succinatimonas hippei YIT 12066'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Anaerobiospirillum succiniciproducens'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Aeromonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Aeromonas jandaei Riv2'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Aeromonas media WS'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Aeromonas veronii B565'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Aeromonas caviae Ae398'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Aeromonas hydrophila'</name>
+<branch_length>4</branch_length>
+<color><red>0</red><green>0</green><blue>0</blue><alpha>255</alpha></color>
+</clade>
+</clade></clade><clade>
+<name>Enterobacterales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Leminorella grimontii ATCC 33999 = DSM 5078'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Erwiniaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Pantoea agglomerans IG1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Tatumella ptyseos ATCC 33301'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Plesiomonas shigelloides'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Hafniaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Hafnia alvei ATCC 51873'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Edwardsiella tarda ATCC 23685'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Yersiniaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Yersinia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Yersinia kristensenii ATCC 33638'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Yersinia rohdei ATCC 43380'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Yersinia pseudotuberculosis YPIII'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Yersinia bercovieri ATCC 43970'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Yersinia frederiksenii ATCC 33641'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Yersinia enterocolitica'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Serratia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Serratia liquefaciens ATCC 27592'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Serratia fonticola'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Serratia marcescens'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Morganellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Proteus</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Proteus mirabilis ATCC 29906'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Proteus penneri ATCC 35198'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Providencia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Providencia rettgeri DSM 1131'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Providencia alcalifaciens DSM 30120'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Providencia rustigianii DSM 4541'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Providencia stuartii ATCC 25827'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Morganella morganii'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Enterobacteriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Enterobacteriaceae bacterium'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Atlantibacter hermannii NBRC 105704'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Kluyvera ascorbata ATCC 33433'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Raoultella planticola ATCC 33531'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Trabulsiella guamensis ATCC 49490'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Yokenella regensburgei ATCC 43003'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cedecea davisae DSM 4568'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Enterobacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Enterobacter hormaechei'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Enterobacter hormaechei YT3'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterobacter hormaechei YT2'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Enterobacter cloacae EcWSU1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterobacter asburiae LF7a'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Enterobacter cancerogenus ATCC 35316'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Shigella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Shigella flexneri 2002017'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Shigella sonnei Ss046'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Shigella dysenteriae Sd197'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Salmonella enterica'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Cronobacter sakazakii'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Klebsiella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Klebsiella aerogenes KCTC 2190'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Klebsiella michiganensis KCTC 1686'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Klebsiella pneumoniae BIDMC 31'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Escherichia</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Escherichia fergusonii ATCC 35469'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Escherichia albertii'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Escherichia albertii KF1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Escherichia albertii TW07627'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Escherichia coli SE11'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Citrobacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Citrobacter amalonaticus Y19'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Citrobacter freundii'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Citrobacter freundii UCI 31'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Citrobacter freundii ATCC 8090 = MTCC 1658 = NBRC 12681'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Citrobacter youngae ATCC 29220'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Citrobacter koseri'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Pseudomonadales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Moraxellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Moraxella catarrhalis RH4'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Acinetobacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Acinetobacter haemolyticus NIPH 261'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acinetobacter pittii ANC 4052'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acinetobacter radioresistens NIPH 2130'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acinetobacter lwoffii WJ10621'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acinetobacter junii SH205'</name>
+<branch_length>4</branch_length>
+<color><red>0</red><green>0</green><blue>0</blue><alpha>255</alpha></color>
+</clade>
+<clade>
+<name>'Acinetobacter johnsonii SH046'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acinetobacter baumannii AB0057'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Acinetobacter calcoaceticus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Pseudomonas</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Pseudomonas nitroreducens HBP1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas alcaliphila 34'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas monteilii'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Pseudomonas monteilii NBRC 103158 = DSM 14164'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas monteilii QM'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Pseudomonas oleovorans MOIL14HWK12'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas stutzeri DSM 4166'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas putida F1'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas fluorescens'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Pseudomonas aeruginosa'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Betaproteobacteria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Methyloversatilis universalis FAM5'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Neisseriales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Laribacter hongkongensis HLHK9'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Neisseriaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Kingella oralis ATCC 51147'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Eikenella corrodens ATCC 23834'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Neisseria</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Neisseria macacae ATCC 33926'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Neisseria flavescens SK114'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Neisseria subflava NJ9703'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Neisseria mucosa ATCC 25996'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Neisseria cinerea ATCC 14685'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Neisseria elongata'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Burkholderiales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Burkholderiales bacterium'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Oxalobacter formigenes'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Oxalobacter formigenes OXCC13'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Oxalobacter formigenes HOxBLS'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Burkholderiaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Burkholderia cepacia GG4'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Lautropia mirabilis ATCC 51599'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Ralstonia</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Sutterellaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Parasutterella excrementihominis YIT 11859'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Sutterella</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Sutterella parvirubra YIT 11816'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Sutterella wadsworthensis'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade><clade>
+<name>Alcaligenaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Bordetella hinzii OH87 BAL007II'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Achromobacter xylosoxidans'</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Achromobacter xylosoxidans NBRC 15126 = ATCC 27061'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Achromobacter xylosoxidans A8'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>'Alcaligenes faecalis'</name>
+<branch_length>4</branch_length>
+<color><red>0</red><green>0</green><blue>0</blue><alpha>255</alpha></color>
+</clade>
+</clade><clade>
+<name>Comamonadaceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Delftia acidovorans'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Comamonas testosteroni'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade><clade>
+<name>Campylobacterales</name>
+<branch_length>4</branch_length>
+<clade>
+<name>Helicobacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Helicobacter bilis ATCC 43879'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Helicobacter cinaedi CCUG 18818 = ATCC BAA-847'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Helicobacter winghamensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Helicobacter canadensis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Helicobacter pylori 26695'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Helicobacter pullorum'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade><clade>
+<name>Campylobacteraceae</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Arcobacter butzleri RM4018'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>Campylobacter</name>
+<branch_length>4</branch_length>
+<clade>
+<name>'Campylobacter showae CSUNSWCD'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter ureolyticus DSM 20703'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter upsaliensis JV21'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter coli JV20'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter gracilis RM3268'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter rectus RM3267'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter concisus 13826'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter lari RM2100'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter hominis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter jejuni subsp. jejuni'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter curvus'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter hyointestinalis'</name>
+<branch_length>4</branch_length>
+</clade>
+<clade>
+<name>'Campylobacter fetus'</name>
+<branch_length>4</branch_length>
+</clade>
+</clade></clade></clade></clade></clade></clade></phylogeny></phyloxml>
