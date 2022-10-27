@@ -24,10 +24,9 @@ The optional_nutrients_assessment.py and the optional_nutrients_export.py files 
 therefore additional scripts are not required.
 
 The Replaceable Nutrients Assessment is composed of three scripts:
-The replaceable_nutrients_degradation_assessment.py script produces...
+The replaceable_nutrients_degradation_assessment.py script produces individual files for every examined GSM. The replaceable_nutrients_degradation_compilation.py
+script can be used to generate a single boolean table that compiles individual model results.
 
-The repalceable_nutrient_degradation_and_intermediate_metabolite_synthesis.py script produces...
-
-The repalceable_nutrient_degradation_and_intermediate_metabolite_synthesis.py script produces...
+The replaceable_nutrients_degradation_and_intermediate_metabolite_synthesis.py and the replaceable_nutrients_degradation_and_intermediate_metabolite_export.py scripts produce boolean tables with information from every model assessed.
 
 For questions or comments please email juan.molina@sydney.edu.au
