@@ -188,7 +188,7 @@ experimental_carbon_sources = {
     'Sialyl-T Antigen': {'Sialyl-T Antigen': 'EX_sT_antigen(e)'},
     'Sialyl-Tn Antigen': {'Sialyl-Tn Antigen': 'EX_sTn_antigen(e)'},
     'T-Antigen (Core 1)': {'T-Antigen (Core 1)': 'EX_T_antigen(e)'},
-    'Tn Antigen': {'Tn Antigen': 'EX_Tn_antigen(e)'}
+    'Tn Antigen': {'Tn Antigen': 'EX_Tn_antigen(e)'},
   # Polysaccharides
     'Amylopectin': {'Amylopectin': 'EX_amylopect900(e)'},
     'Amylose': {'Amylose': 'EX_amylose300(e)'},
@@ -216,7 +216,7 @@ experimental_carbon_sources = {
     'Starch': {'Starch': 'EX_starch1200(e)'},
     'Starch, Structure 1': {'Starch, Structure 1': 'EX_strch1(e)'},
     'Xylan': {'Xylan': 'EX_xylan(e)'},
-    'Xyluglucan': {'Xyluglucan': 'EX_xyluglc(e)'}
+    'Xyluglucan': {'Xyluglucan': 'EX_xyluglc(e)'},
   # Oligosaccharides
     'Arabinotriose': {'Arabinotriose': 'EX_arabttr(e)'},
     'Cellobiose':{'Cellobiose': 'EX_cellb(e)'},
@@ -242,14 +242,13 @@ experimental_carbon_sources = {
     'D-Fructose': {'D-Fructose': 'EX_fru(e)'},
     'L-Fucose': {'L-Fucose': 'EX_fuc_L(e)'},
     'Glucosamine': {'Glucosamine': 'EX_gam(e)'},
-    'Galactose': {'Galactose': 'EX_gal(e)'}
     'D-Glucose': {'D-Glucose': 'EX_glc_D(e)'},
     'L-lyxose': {'L-lyxose': 'EX_lyx_L(e)'},
     'D-Mannose': {'D-Mannose': 'EX_man(e)'},
     'D-Ribose': {'D-Ribose': 'EX_rib_D(e)'},
     'L-Rhamnose': {'L-Rhamnose': 'EX_rmn(e)'},
     'Salicin': {'Salicin': 'EX_salcn(e)'},
-    'D-Xylose': {'D-Xylose': 'EX_xyl_D(e)'}
+    'D-Xylose': {'D-Xylose': 'EX_xyl_D(e)'},
   # Intermediate metabolites
     'Acetic acid': {'Acetic acid': 'EX_ac(e)'},
     'Acetaldehyde': {'Acetaldehyde': 'EX_acald(e)'},
@@ -261,7 +260,7 @@ experimental_carbon_sources = {
     'Butyrate': {'Butyrate': 'EX_but(e)'},
     'Succinate': {'Succinate': 'EX_succ(e)'},
     'Fumarate': {'Fumarate': 'EX_fum(e)'},
-    'Ethanol': {'Ethanol': 'EX_etoh(e)'},
+    'Ethanol': {'Ethanol': 'EX_etoh(e)'}
 }
 
 nutrient_qtt = 100
