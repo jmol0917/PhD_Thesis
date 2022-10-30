@@ -1,0 +1,68 @@
+Substrate,Released metabolites
+Core 2,"N-Acetyl-D-glucosamine, Core 6, D-Galactose, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetylgalactosamine, Tn Antigen, released Core 2"
+Core 3,"N-Acetyl-D-glucosamine, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetylgalactosamine,"
+Core 4,"N-Acetyl-D-glucosamine, Core 3, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), Tn Antigen, N-Acetylgalactosamine"
+Core 5,"N-Acetylgalactosamine, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetyl-D-glucosamine"
+Core 6,"N-Acetyl-D-glucosamine, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetylgalactosamine"
+Core 7,"N-Acetylgalactosamine, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site)"
+Core 8,"D-Galactose, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetylgalactosamine"
+Chondroitin Sulfate A Proteoglycan,"N-Acetylgalactosamine, D-Glucuronic acid, Dimer GalNAc4S-GlcA"
+Dimer GalNAc4S-GlcA,"N-Acetylgalactosamine, D-Glucuronic acid, Hydrogen Ion, Sulfate"
+Chondroitin Sulfate B Proteoglycan,"Dimer GalNAc4S-GlcA, Dimer GalNAc4S-IdoA2S, N-Acetylgalactosamine, D-Glucuronic acid"
+Dimer GalNAc4S-IdoA2S,"N-Acetylgalactosamine,  Hydrogen Ion, Sulfate"
+Chondroitin Sulfate C Proteoglycan,"Dimer GalNAc6S-GlcA, N-Acetylgalactosamine, D-Glucuronic acid"
+Dimer GalNAc6S-GlcA,"N-Acetylgalactosamine, D-Glucuronic acid, Hydrogen Ion, Sulfate"
+Disialyl-T Antigen,"N-Acetylneuraminic acid, Sialyl-T Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), T-Antigen (Core 1), D-Galactose, Tn Antigen, N-Acetylgalactosamine"
+"GlcNac-Alpha-1,4-Core 1","N-Acetyl-D-glucosamine, T-Antigen (Core 1), Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), D-Galactose, Tn Antigen, N-Acetylgalactosamine, D-Galactose"
+"GlcNac-Alpha-1,4-Core 2","N-Acetyl-D-glucosamine, Core 2, GlcNac-Alpha-1,4-Core 1, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), Core 6, D-Galactose, N-Acetylgalactosamine, Tn Antigen, released Core 2, T-Antigen (Core 1)"
+Hyaluronic acid,"D-Glucuronic acid, Hyaluronan Degradation Product 1, N-Acetyl-D-glucosamine, "
+Heparan Sulfate Proteoglycan,"Glucosamine 2,6-sulfate, Hydrogen Ion, Product 1 HEPARL1_e, IdoA-GlcN2,6diS-GlcA-GlcN2,3,6triS, Product 2 HEPARL1_e, IdoA2S-GlcN2,6diS-IdoA2S-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein), Glucosamine,  D-Glucuronic acid"
+Product 1 HEPARL1_e,"Product IDOURASE_HS1, GlcN2,6diS-GlcA-GlcN2,3,6triS, Iduronic acid, Glucosamine,  D-Glucuronic acid"
+Product AS3TASE_HS2,"Hydrogen Ion, Product GAM2STASE_HS3, GlcN-IdoA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein), Sulfate,  Glucosamine,  D-Glucuronic acid"
+Product GAM2STASE_HS3,"Glucosamine, Product GLCNACASE_HS2, GlcA-GlcNAc-IdoA-Gal-Gal-Xyl-L-Ser (protein),  D-Glucuronic acid"
+Product GLCNACASE_HS2,"D-Glucuronic acid, Product GLCAASE_HS, GlcNAc-IdoA-Gal-Gal-Xyl-L-Ser (protein)"
+Product GLCAASE_HS,
+Product GLCNACASE_HS3,"Product IDOURASE_HS3, Gal-Gal-Xyl-L-Ser (protein), Iduronic acid, D-Galactose"
+Product IDOURASE_HS3,"D-Galactose, Undegradable product GALASE_HS, Xyl-L-Ser (protein)"
+Product 2 HEPARL1_e,"Hydrogen Ion, Product IS2TASE_HS1, IdoA-GlcN2,6diS-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein), Sulfate, Glucosamine, D-Glucuronic acid"
+Product IDOURASE_HS1,"Hydrogen Ion, Product AS6TASE_HS1, GlcN2S-GlcA-GlcN2,3diS, Sulfate, Glucosamine, D-Glucuronic acid"
+Product AS6TASE_HS1,"Hydrogen Ion, Product AS3TASE_HS1, GlcN2S-GlcA-GlcN2S, Sulfate, Glucosamine, D-Glucuronic acid"
+Product AS3TASE_HS1,"Hydrogen Ion, Product GAM2STASE_HS2, GlcN-GlcA-GlcN, Sulfate, Glucosamine, D-Glucuronic acid"
+Product GAM2STASE_HS2,"Glucosamine, D-Glucuronic acid"
+Product IS2TASE_HS1,"Product IDOURASE_HS2, GlcN2,6diS-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein), Iduronic acid, Glucosamine, D-Glucuronic acid"
+Product IDOURASE_HS2,"Hydrogen Ion, Product AS6TASE_HS2, GlcN2S-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein), Sulfate, Glucosamine, D-Glucuronic acid"
+Product AS6TASE_HS2,"Hydrogen Ion, Product AS3TASE_HS2, GlcN2S-IdoA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein), Sulfate, Glucosamine, D-Glucuronic acid"
+Sialyl-T Antigen,"N-Acetylneuraminic acid, T-Antigen (Core 1), Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), D-Galactose, N-Acetylgalactosamine"
+Sialyl-Tn Antigen,"N-Acetylneuraminic acid, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site)"
+T-Antigen (Core 1),"D-Galactose, Tn Antigen, Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetylgalactosamine"
+Tn Antigen,"Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site), N-Acetylgalactosamine"
+Amylopectin,"Maltotriose, D-Glucose, D-Maltose"
+Amylose,"D-Glucose, D-Maltose"
+Arabinan,"L-Arabinose, D-Galactose, D-Galacturonate, L-Rhamnose"
+Larch arabinogalactan,"L-Arabinose, D-Galactose, D-Glucuronic acid, Hydrogen Ion"
+Arabinoxylan,"L-Arabinose, D-Galactose, D-Glucose, D-Xylose"
+Beta-Glucans,D-Glucose
+Cellulose,D-Glucose
+Dextran,D-Maltose
+Carob galactomannan,"D-Galactose, D-Mannose"
+"Glycogen, Structure 2","D-Glucose, Glycogen Structure 4, Glycogen Structure 5"
+"Glycogen, Structure 4","D-Glucose, Glycogen Structure 5"
+"Glycogen, Structure 5",D-Maltose
+Homogalacturonan,D-Galacturonate
+Inulin,"D-Fructose, Kestopentaose"
+Levan,"Levantetraose, D-Fructose, Levanbiose, Levantriose"
+Lichenin,D-Glucose
+Laminarin,"Laminaribiose, D-Glucose"
+Alpha-mannan yeast,D-Mannose
+Pectin,"D-Galacturonate, Methanol"
+Pectic galactan (potato),"L-Arabinose, D-Galactose, D-Galacturonate, L-Rhamnose"
+Pullulan,Maltotriose
+Potato rhamnogalacturonan I,"L-Arabinose, D-Galactose, D-Galacturonate, L-Rhamnose, D-Xylose"
+Wine rhamnogalacturonan II,"2-o-methylfucose , 2-O-methylxylose, 3-deoxy-d-lyxo-heptulosaric acid, Aceric acid, D-Apiose, L-Arabinose, L-Fucose, D-Galactose, D-Galacturonate, D-Glucuronic acid, 3-Deoxy-D-manno-2-octulosonate, L-Rhamnose"
+Starch,"D-Glucose, D-Maltose, Maltotriose"
+"Starch, Structure 1","D-Glucose, Starch Structure 2, Starch Structure 3, Starch Structure 4"
+Xylan,D-Xylose
+Xyluglucan,"L-Arabinose, L-Fucose, D-Galactose, D-Glucose, D-Xylose"
+Arabinotriose,L-Arabinose
+Kestopentaose,"D-Fructose, D-Glucose"
+Kestotetraose,"D-Fructose, D-Glucose"

@@ -1,0 +1,22 @@
+Model,Role,ASVs_represented,Total_abundance,B1,B2,B3,B5,B6,B9,Kx,Glu,Asp,Bra,Ser,Aro,His
+Bacteroides_vulgatus_ATCC_8482,Fibre degrader,1,0.0012,syn,syn,syn,syn,syn,syn,syn,sec,sec,sec,sec,syn,syn
+Eubacterium_rectale_ATCC_33656,Both,12,0.117,syn,syn,syn,syn,syn,req,syn,req,req,req,req,sec,sec
+Bifidobacterium_adolescentis_ATCC_15703,Fibre degrader,1,0.0077,req,syn,req,req,syn,syn,syn,sec,req,req,req,sec,sec
+Clostridium_perfringens_ATCC_13124,Both,12,0.1028,syn,syn,req,req,syn,syn,syn,req,req,req,sec,sec,req
+Bacteroides_cellulosilyticus_DSM_14838,Fibre degrader,1,0.0006,syn,syn,syn,syn,syn,syn,syn,syn,req,sec,sec,syn,syn
+Bacteroides_fragilis_NCTC_9343,Fibre degrader,1,0.001,syn,syn,syn,syn,syn,syn,syn,sec,sec,sec,sec,sec,syn
+Roseburia_intestinalis_L1_82,Both,2,0.0036,,syn,syn,syn,syn,syn,,req,req,req,req,sec,sec
+Coprococcus_comes_ATCC_27758,Intmet producer,2,0.0293,syn,syn,syn,syn,syn,syn,,sec,sec,req,req,sec,sec
+Roseburia_inulinivorans_DSM_16841,Intmet producer,2,0.0032,syn,req,req,,req,syn,,syn,syn,syn,syn,req,sec
+Clostridium_hylemonae_DSM_15053,Intmet producer,4,0.0046,syn,req,syn,req,req,syn,,req,req,sec,req,req,sec
+Subdoligranulum_variabile_DSM_15176,Intmet producer,2,0.0031,,req,req,req,req,,syn,syn,req,req,syn,syn,sec
+Odoribacter_splanchnicus_1651_6_DSM_20712,Intmet producer,1,0.0008,syn,syn,syn,syn,syn,syn,syn,sec,req,syn,req,sec,syn
+Roseburia_hominis_A2_183,Intmet producer,1,0.0009,req,req,req,syn,syn,req,req,req,req,req,req,sec,sec
+Acidaminococcus_fermentans_DSM_20731,Intmet producer,1,0.0075,req,req,syn,syn,req,syn,req,sec,sec,req,req,sec,syn
+Coprococcus_eutactus_ATCC_27759,Intmet producer,2,0.0096,,syn,req,syn,syn,syn,,syn,syn,syn,syn,sec,sec
+Eubacterium_brachy_ATCC_33089,Intmet producer,1,0.0016,req,req,syn,req,syn,req,req,req,syn,req,syn,syn,syn
+Anaerostipes_caccae_DSM_14662,Intmet producer,2,0.0007,syn,syn,syn,syn,syn,syn,,req,req,sec,req,sec,sec
+Eubacterium_dolichum_DSM_3991,Intmet producer,2,0.0004,,req,req,,req,,,req,syn,req,syn,syn,sec
+Pseudoramibacter_alactolyticus_ATCC_23263,Intmet producer,1,0.0003,req,req,syn,syn,req,req,req,syn,req,req,sec,sec,sec
+Clostridium_botulinum_A_str_ATCC_3502,Intmet producer,1,0.0001,req,syn,syn,syn,syn,syn,syn,sec,req,req,req,req,sec
+Tannerella_forsythia_ATCC_43037,Intmet producer,1,0.0001,req,req,syn,req,syn,syn,req,syn,req,syn,sec,req,syn
