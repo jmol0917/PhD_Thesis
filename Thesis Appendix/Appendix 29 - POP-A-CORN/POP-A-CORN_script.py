@@ -14,7 +14,7 @@ poly_degradation = pd.read_csv(path + 'polysaccharide_growth_compilation.csv', i
 proteoglycan_deg = pd.read_csv(path + 'proteoglycan_growth_compilation.csv', index_col=0)
 monosaccharide_deg = pd.read_csv(path + 'monosaccharide_growth_compilation.csv', index_col=0)
 oligosaccharide_deg = pd.read_csv(path + 'oligosaccharide_growth_compilation.csv', index_col=0)
-intmet_export = pd.read_csv(path + 'intmet_export_internisable.csv', index_col=0)
+intmet_export = pd.read_csv(path + 'intmet_export_compilation.csv', index_col=0)
 intmet_deg = pd.read_csv(path + 'intmet_growth_compilation.csv', index_col=0)
 
 # file with information about which mono/oligosaccharides are released from degradation of fibre
